@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Homework() {
   return (
@@ -20,7 +21,7 @@ export default function Homework() {
         <div className="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
           <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
             <div className="rounded-lg h-64 overflow-hidden">
-              <img
+              <Image
                 alt="content"
                 className="object-cover object-center h-full w-full"
                 src="https://i.postimg.cc/pd1C9hGG/CROPPED-example-IMAGE.jpg"
@@ -51,7 +52,7 @@ export default function Homework() {
           </div>
           <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
             <div className="rounded-lg h-64 overflow-hidden">
-              <img
+              <Image
                 alt="content"
                 className="object-cover object-center h-full w-full"
                 src="https://i.postimg.cc/nh12KwzP/uniizt9iqjq30lxoh9vt.jpg"
@@ -61,8 +62,8 @@ export default function Homework() {
               Step One
             </h2>
             <p className="text-base leading-relaxed mt-2">
-              Define the website's purpose, determine it's software needs, and
-              give it a name and domain.
+              Define the website&apos;s purpose, determine it&apos;s software
+              needs, and give it a name and domain.
             </p>
             <Link href="https://domains.google/">
               <a className="text-slate-500 inline-flex items-center mt-3">
@@ -83,7 +84,7 @@ export default function Homework() {
           </div>
           <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
             <div className="rounded-lg h-64 overflow-hidden">
-              <img
+              <Image
                 alt="content"
                 className="object-cover object-center h-full w-full"
                 src="https://i.postimg.cc/BbcPWkdW/1-oy1-Zlc-Vju-S-1v6-HQBM05p-A.jpg"
@@ -118,7 +119,7 @@ export default function Homework() {
         <div className="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
           <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
             <div className="rounded-lg h-64 overflow-hidden">
-              <img
+              <Image
                 alt="content"
                 className="object-cover object-center h-full w-full"
                 src="https://i.postimg.cc/prnkDWhf/404.png"
@@ -128,9 +129,9 @@ export default function Homework() {
               Step Three
             </h2>
             <p className="text-base leading-relaxed mt-2">
-              If the design isn't already done go with what's easy. Start the
-              creation of edge functions such as a 404 page and placeholders for
-              images. Begin inserting real data or texts.
+              If the design isn&apos;t already done go with what&apos;s easy.
+              Start the creation of edge functions such as a 404 page and
+              placeholders for images. Begin inserting real data or texts.
             </p>
             <Link href="/doesntexist">
               <a className="text-slate-500 inline-flex items-center mt-3">
@@ -151,7 +152,7 @@ export default function Homework() {
           </div>
           <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
             <div className="rounded-lg h-64 overflow-hidden">
-              <img
+              <Image
                 alt="content"
                 className="object-cover object-center h-full w-full"
                 src="https://i.postimg.cc/J4j02fjP/8-Simple-Checkpoints-for-a-High-Speed-Web-Page.png"
@@ -182,7 +183,7 @@ export default function Homework() {
           </div>
           <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
             <div className="rounded-lg h-64 overflow-hidden">
-              <img
+              <Image
                 alt="content"
                 className="object-cover object-center h-full w-full"
                 src="https://i.postimg.cc/8PbDWNRQ/Screenshot20210212at115339-PM.png"
@@ -192,8 +193,8 @@ export default function Homework() {
               Conclusion
             </h2>
             <p className="text-base leading-relaxed mt-2">
-              Maintain the website with updates to it's dependancies and pay for
-              usage costs. Keep the client satisfied with the websites
+              Maintain the website with updates to it&apos;s dependancies and
+              pay for usage costs. Keep the client satisfied with the websites
               performance.
             </p>
             <Link href="https://www.npmjs.com/package/pure-react-carousel">

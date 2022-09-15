@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Hero() {
   return (
     <section className="min-h-screen text-gray-400 bg-gray-900 body-font">
@@ -22,7 +24,7 @@ export default function Hero() {
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img
+          <Image
             className="object-cover object-center rounded"
             alt="hero"
             src="https://picsum.photos/720/603"
@@ -31,21 +33,21 @@ export default function Hero() {
       </div>
       <div className="container mx-auto flex pb-16 md:flex-row flex-col items-center">
         <div className="px-5 py-5 lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img
+          <Image
             className="object-cover object-center rounded"
             alt="hero"
             src="https://picsum.photos/720/600"
           />
         </div>
         <div className="px-5 py-5 lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img
+          <Image
             className="object-cover object-center rounded"
             alt="hero"
             src="https://picsum.photos/720/601"
           />
         </div>
         <div className="px-5 py-5 lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img
+          <Image
             className="object-cover object-center rounded"
             alt="hero"
             src="https://picsum.photos/720/602"
