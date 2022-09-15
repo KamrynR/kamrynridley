@@ -25,9 +25,11 @@ export default function Hero() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <Image
-            className="object-cover object-center rounded"
+            className="object-contain rounded"
             alt="hero"
-            src="https://picsum.photos/720/603"
+            height={500}
+            width={600}
+            src="https://dummyimage.com/720x600"
           />
         </div>
       </div>
@@ -36,21 +38,27 @@ export default function Hero() {
           <Image
             className="object-cover object-center rounded"
             alt="hero"
-            src="https://picsum.photos/720/600"
+            height={500}
+            width={600}
+            src="https://dummyimage.com/720x600"
           />
         </div>
         <div className="px-5 py-5 lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <Image
             className="object-cover object-center rounded"
             alt="hero"
-            src="https://picsum.photos/720/601"
+            height={500}
+            width={600}
+            src="https://dummyimage.com/720x600"
           />
         </div>
         <div className="px-5 py-5 lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <Image
             className="object-cover object-center rounded"
             alt="hero"
-            src="https://picsum.photos/720/602"
+            height={500}
+            width={600}
+            src="https://dummyimage.com/720x600"
           />
         </div>
       </div>

@@ -24,6 +24,8 @@ export default function Homework() {
               <Image
                 alt="content"
                 className="object-cover object-center h-full w-full"
+                height={325}
+                width={600}
                 src="https://i.postimg.cc/pd1C9hGG/CROPPED-example-IMAGE.jpg"
               />
             </div>
@@ -55,6 +57,8 @@ export default function Homework() {
               <Image
                 alt="content"
                 className="object-cover object-center h-full w-full"
+                height={325}
+                width={600}
                 src="https://i.postimg.cc/nh12KwzP/uniizt9iqjq30lxoh9vt.jpg"
               />
             </div>
@@ -87,6 +91,8 @@ export default function Homework() {
               <Image
                 alt="content"
                 className="object-cover object-center h-full w-full"
+                height={325}
+                width={600}
                 src="https://i.postimg.cc/BbcPWkdW/1-oy1-Zlc-Vju-S-1v6-HQBM05p-A.jpg"
               />
             </div>
@@ -122,6 +128,8 @@ export default function Homework() {
               <Image
                 alt="content"
                 className="object-cover object-center h-full w-full"
+                height={325}
+                width={600}
                 src="https://i.postimg.cc/prnkDWhf/404.png"
               />
             </div>
@@ -155,6 +163,8 @@ export default function Homework() {
               <Image
                 alt="content"
                 className="object-cover object-center h-full w-full"
+                height={325}
+                width={600}
                 src="https://i.postimg.cc/J4j02fjP/8-Simple-Checkpoints-for-a-High-Speed-Web-Page.png"
               />
             </div>
@@ -186,6 +196,8 @@ export default function Homework() {
               <Image
                 alt="content"
                 className="object-cover object-center h-full w-full"
+                height={325}
+                width={600}
                 src="https://i.postimg.cc/8PbDWNRQ/Screenshot20210212at115339-PM.png"
               />
             </div>
