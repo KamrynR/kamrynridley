@@ -23,8 +23,12 @@ export default function Nav() {
             </a>
           </Link>
           <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
-            {/* <a className="mr-5 cursor-pointer hover:text-white">First Link</a>
-            <a className="mr-5 cursor-pointer hover:text-white">Second Link</a> */}
+            <Link href="https://github.com/KamrynR/kamrynridley">
+              <a className="mr-5 cursor-pointer hover:text-white">GitHub</a>
+            </Link>
+            <Link href="https://docs.google.com/document/d/1jDvHIBLEh_TApl-WGRf-kVUMawiLtZj-fb185F4IYGk/edit?usp=sharing">
+              <a className="mr-5 cursor-pointer hover:text-white">Outline</a>
+            </Link>
           </nav>
           <Link href="/COMM110B">
             <button className="inline-flex items-center bg-gray-900 border-0 py-1 px-3 focus:outline-none hover:bg-gray-800 rounded text-base mt-4 md:mt-0">
