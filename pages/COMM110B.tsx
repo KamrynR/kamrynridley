@@ -35,21 +35,22 @@ export default function Homework() {
             <p className="text-base leading-relaxed mt-2">
               People like Entrepreneurs, Politicians, and Content Creators
             </p>
-            <Link href="https://www.heilmanfornd.com/">
-              <a className="text-slate-500 inline-flex items-center mt-3">
-                Learn More
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  className="w-4 h-4 ml-2"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M5 12h14M12 5l7 7-7 7"></path>
-                </svg>
-              </a>
+            <Link
+              href="https://www.heilmanfornd.com/"
+              className="text-slate-500 inline-flex items-center mt-3"
+            >
+              Learn More
+              <svg
+                fill="none"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                className="w-4 h-4 ml-2"
+                viewBox="0 0 24 24"
+              >
+                <path d="M5 12h14M12 5l7 7-7 7"></path>
+              </svg>
             </Link>
           </div>
           <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
@@ -69,21 +70,22 @@ export default function Homework() {
               Define the website&apos;s purpose, determine it&apos;s software
               needs, and give it a name and domain.
             </p>
-            <Link href="https://domains.google/">
-              <a className="text-slate-500 inline-flex items-center mt-3">
-                Learn More
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  className="w-4 h-4 ml-2"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M5 12h14M12 5l7 7-7 7"></path>
-                </svg>
-              </a>
+            <Link
+              href="https://domains.google/"
+              className="text-slate-500 inline-flex items-center mt-3"
+            >
+              Learn More
+              <svg
+                fill="none"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                className="w-4 h-4 ml-2"
+                viewBox="0 0 24 24"
+              >
+                <path d="M5 12h14M12 5l7 7-7 7"></path>
+              </svg>
             </Link>
           </div>
           <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
@@ -104,21 +106,22 @@ export default function Homework() {
               structuring core functions, fill in placeholder data or texts, and
               write tests.
             </p>
-            <Link href="https://nextjs.org/">
-              <a className="text-slate-500 inline-flex items-center mt-3">
-                Learn More
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  className="w-4 h-4 ml-2"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M5 12h14M12 5l7 7-7 7"></path>
-                </svg>
-              </a>
+            <Link
+              href="https://nextjs.org/"
+              className="text-slate-500 inline-flex items-center mt-3"
+            >
+              Learn More
+              <svg
+                fill="none"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                className="w-4 h-4 ml-2"
+                viewBox="0 0 24 24"
+              >
+                <path d="M5 12h14M12 5l7 7-7 7"></path>
+              </svg>
             </Link>
           </div>
         </div>
@@ -141,21 +144,22 @@ export default function Homework() {
               Start the creation of edge functions such as a 404 page and
               placeholders for images. Begin inserting real data or texts.
             </p>
-            <Link href="/doesntexist">
-              <a className="text-slate-500 inline-flex items-center mt-3">
-                Learn More
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  className="w-4 h-4 ml-2"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M5 12h14M12 5l7 7-7 7"></path>
-                </svg>
-              </a>
+            <Link
+              href="/doesntexist"
+              className="text-slate-500 inline-flex items-center mt-3"
+            >
+              Learn More
+              <svg
+                fill="none"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                className="w-4 h-4 ml-2"
+                viewBox="0 0 24 24"
+              >
+                <path d="M5 12h14M12 5l7 7-7 7"></path>
+              </svg>
             </Link>
           </div>
           <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
@@ -174,21 +178,22 @@ export default function Homework() {
             <p className="text-base leading-relaxed mt-2">
               Optimize website for speed and accessibility.
             </p>
-            <Link href="https://tools.pingdom.com/">
-              <a className="text-slate-500 inline-flex items-center mt-3">
-                Learn More
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  className="w-4 h-4 ml-2"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M5 12h14M12 5l7 7-7 7"></path>
-                </svg>
-              </a>
+            <Link
+              href="https://tools.pingdom.com/"
+              className="text-slate-500 inline-flex items-center mt-3"
+            >
+              Learn More
+              <svg
+                fill="none"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                className="w-4 h-4 ml-2"
+                viewBox="0 0 24 24"
+              >
+                <path d="M5 12h14M12 5l7 7-7 7"></path>
+              </svg>
             </Link>
           </div>
           <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
@@ -209,21 +214,22 @@ export default function Homework() {
               pay for usage costs. Keep the client satisfied with the websites
               performance.
             </p>
-            <Link href="https://www.npmjs.com/package/pure-react-carousel">
-              <a className="text-slate-500 inline-flex items-center mt-3">
-                Learn More
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  className="w-4 h-4 ml-2"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M5 12h14M12 5l7 7-7 7"></path>
-                </svg>
-              </a>
+            <Link
+              href="https://www.npmjs.com/package/pure-react-carousel"
+              className="text-slate-500 inline-flex items-center mt-3"
+            >
+              Learn More
+              <svg
+                fill="none"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                className="w-4 h-4 ml-2"
+                viewBox="0 0 24 24"
+              >
+                <path d="M5 12h14M12 5l7 7-7 7"></path>
+              </svg>
             </Link>
           </div>
         </div>

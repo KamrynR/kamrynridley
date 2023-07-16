@@ -5,34 +5,41 @@ export default function Nav() {
     <>
       <header className="text-gray-400 bg-black body-font">
         <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-          <Link href="/">
-            <a className="cursor-pointer flex title-font font-medium items-center text-white mb-4 md:mb-0">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                className="w-10 h-10 text-white p-2 bg-slate-800 rounded-full"
-                viewBox="0 0 24 24"
-              >
-                <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
-              </svg>
-              <span className="ml-3 text-xl">Kamryn Ridley</span>
-            </a>
+          <Link
+            href="/"
+            className="cursor-pointer flex title-font font-medium items-center text-white mb-4 md:mb-0"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              stroke="currentColor"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              stroke-width="2"
+              className="w-10 h-10 text-white p-2 bg-slate-800 rounded-full"
+              viewBox="0 0 24 24"
+            >
+              <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
+            </svg>
+            <span className="ml-3 text-xl">Kamryn Ridley</span>
           </Link>
           <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
-            <Link href="https://github.com/KamrynR/kamrynridley">
-              <a className="mr-5 cursor-pointer hover:text-white">GitHub</a>
+            <Link
+              href="https://github.com/KamrynR/kamrynridley"
+              className="mr-5 cursor-pointer hover:text-white"
+            >
+              GitHub
             </Link>
-            <Link href="https://docs.google.com/document/d/1jDvHIBLEh_TApl-WGRf-kVUMawiLtZj-fb185F4IYGk/edit?usp=sharing">
-              <a className="mr-5 cursor-pointer hover:text-white">Outline</a>
+            <Link
+              href="https://docs.google.com/document/d/1jDvHIBLEh_TApl-WGRf-kVUMawiLtZj-fb185F4IYGk/edit?usp=sharing"
+              className="mr-5 cursor-pointer hover:text-white"
+            >
+              Curriculum Vitae
             </Link>
           </nav>
           <Link href="/COMM110B">
             <button className="inline-flex items-center bg-gray-900 border-0 py-1 px-3 focus:outline-none hover:bg-gray-800 rounded text-base mt-4 md:mt-0">
-              COMM 110 B Demonstration
+              What I'm working on now
               <svg
                 fill="none"
                 stroke="currentColor"

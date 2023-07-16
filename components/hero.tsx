@@ -6,21 +6,20 @@ export default function Hero() {
       <div className="container mx-auto flex px-5 pt-16 pb-5 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Vestibulum mi sem, tempus quis sapien vitae
+            Full Stack Web Developer
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed
-            pellentesque dolor. In maximus tellus eget erat sodales rhoncus.
-            Cras vel sollicitudin lorem, non pharetra nisl. Nunc eget elit
-            aliquet, dapibus mi ut, ultricies est.
+            As a programmer, working to create a better experience for the
+            end-user is paramount. My proficiency in Web Development gives me
+            the power to generate new ideas and design solutions to problems
+            present in websites today. Currently, I'm seeking opportunities that
+            allow me to incorporate my knowledge to better the experience of the
+            internet.
           </p>
           <div className="flex justify-center">
             <button className="inline-flex text-white bg-slate-800 border-0 py-2 px-6 focus:outline-none hover:bg-slate-600 rounded text-lg">
-              Curious?
+              Take a look at my work
             </button>
-            {/* <button className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              Button
-            </button> */}
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
