@@ -15,7 +15,7 @@ export default function Nav() {
               stroke="currentColor"
               strokeLinecap="round"
               strokeLinejoin="round"
-              stroke-width="2"
+              strokeWidth="2"
               className="w-10 h-10 text-white p-2 bg-slate-800 rounded-full"
               viewBox="0 0 24 24"
             >
@@ -25,27 +25,24 @@ export default function Nav() {
           </Link>
           <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
             <Link
-              href="https://github.com/KamrynR/kamrynridley"
+              href="https://github.com/KamrynR/"
               className="mr-5 cursor-pointer hover:text-white"
             >
               GitHub
             </Link>
-            <Link
-              href="https://docs.google.com/document/d/1jDvHIBLEh_TApl-WGRf-kVUMawiLtZj-fb185F4IYGk/edit?usp=sharing"
-              className="mr-5 cursor-pointer hover:text-white"
-            >
+            <Link href="/" className="mr-5 cursor-pointer hover:text-white">
               Curriculum Vitae
             </Link>
           </nav>
           <Link href="/COMM110B">
             <button className="inline-flex items-center bg-gray-900 border-0 py-1 px-3 focus:outline-none hover:bg-gray-800 rounded text-base mt-4 md:mt-0">
-              What I'm working on now
+              What I&apos;m working on now
               <svg
                 fill="none"
                 stroke="currentColor"
                 stroke-linecap="round"
                 stroke-linejoin="round"
-                stroke-width="2"
+                strokeWidth="2"
                 className="w-4 h-4 ml-1"
                 viewBox="0 0 24 24"
               >

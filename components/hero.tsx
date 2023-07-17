@@ -12,9 +12,9 @@ export default function Hero() {
             As a programmer, working to create a better experience for the
             end-user is paramount. My proficiency in Web Development gives me
             the power to generate new ideas and design solutions to problems
-            present in websites today. Currently, I'm seeking opportunities that
-            allow me to incorporate my knowledge to better the experience of the
-            internet.
+            present in websites today. Currently, I&apos;m seeking opportunities
+            that allow me to incorporate my knowledge to better the experience
+            of the internet.
           </p>
           <div className="flex justify-center">
             <button className="inline-flex text-white bg-slate-800 border-0 py-2 px-6 focus:outline-none hover:bg-slate-600 rounded text-lg">
